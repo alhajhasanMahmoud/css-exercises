@@ -1,0 +1,15 @@
+.click-me-first,
+.click-me-instead {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.click-me-first {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.click-me-instead {
+    background-color: yellow;
+}
